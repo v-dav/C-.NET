@@ -1,4 +1,6 @@
 # Core concepts of C#
+![image](https://github.com/v-dav/C-sharp-.NET/assets/115344057/d3f666bd-7dd4-416d-84fa-3205c501d956)
+
 
 ## .NET
 - .NET is a framework for building applicaitons on Windows
