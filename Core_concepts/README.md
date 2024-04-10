@@ -25,4 +25,5 @@ As our application grows we need a  way to partition it, so thats where we use a
 It's a file on a dis which can be an executable or DLL which stands for Dynamically Linked Library.
 
 ## Primitive Types
+![Skärmavbild 2024-04-10 kl  10 29 31](https://github.com/v-dav/C-sharp-.NET/assets/115344057/c1ed1955-8f35-4cc7-8679-77251998f82d)
 
