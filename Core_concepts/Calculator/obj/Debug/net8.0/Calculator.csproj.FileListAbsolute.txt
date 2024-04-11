@@ -1,0 +1,15 @@
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/bin/Debug/net8.0/Calculator
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/Vlad/Documents/Dev/C#.NET/Core_concepts/Calculator/obj/Debug/net8.0/ref/Calculator.dll
