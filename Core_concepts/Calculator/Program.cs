@@ -33,7 +33,7 @@ while (true)
 		}
 		else if (answer == "s")
 		{
-			result = num1 / num2;
+			result = num1 - num2;
 			break;
 		}
 		else if (answer == "d")
